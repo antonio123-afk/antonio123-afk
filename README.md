@@ -1,16 +1,13 @@
-## Hi there 👋
+### Bem-Vindos ao meu perfil
+Meu nome é Antonio Nunes.
 
-<!--
-**antonio123-afk/antonio123-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou estudando na Alura, estudando a linguagem do JavaScript.
 
-Here are some ideas to get you started:
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📫
+
+00001111308482sp@al.educacao.sp.gov.br
+
+![image](https://media1.tenor.com/m/AV8GOcAeo4MAAAAC/to-puinish-and-enslave-transformers.gif)
+
